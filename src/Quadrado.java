@@ -1,6 +1,6 @@
-class Square implements Shape {
+class Quadrado implements Forma {
     @Override
-    public void draw() {
+    public void desenhar() {
         System.out.println("Desenhando um quadrado.");
     }
 }

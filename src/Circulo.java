@@ -1,6 +1,6 @@
-class Circle implements Shape {
+class Circulo implements Forma {
     @Override
-    public void draw() {
+    public void desenhar() {
         System.out.println("Desenhando um círculo.");
     }
 }

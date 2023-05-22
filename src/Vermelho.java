@@ -1,6 +1,6 @@
-class Red implements Color {
+class Vermelho implements Color {
     @Override
-    public void fill() {
+    public void preenchimento() {
         System.out.println("Preenchendo com a cor vermelha.");
     }
 }

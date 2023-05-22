@@ -1,3 +1,3 @@
 interface Color {
-    void fill();
+    void preenchimento();
 }
